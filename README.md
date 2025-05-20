@@ -53,7 +53,7 @@ The **Organ Donation Management System** is a web-based application designed to 
 http://localhost/organ_sharing_project
  
 
-📂 Project Structure
+## 📂 Project Structure
 organ-donation-management-system/
 ├── assets/            # Images, CSS, JS files
 ├── config/            # Database connection file
@@ -66,7 +66,7 @@ organ-donation-management-system/
 └── README.md
 
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 AI-based organ-recipient matching system
 
 SMS/email notifications
@@ -75,13 +75,13 @@ Integration with national transplant registries
 
 Data analytics dashboard for hospitals
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 MOHAN Foundation
 
 NOTTO - National Organ and Tissue Transplant Organization
 
 Open-source resources and communities
 
-📃 License
+## 📃 License
 This project is open-source and available under the MIT License.
 
