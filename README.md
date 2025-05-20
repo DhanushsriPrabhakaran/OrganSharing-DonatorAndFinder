@@ -20,17 +20,16 @@ The **Organ Donation Management System** is a web-based application designed to 
 - **Other Tools**: Font Awesome, PHPMyAdmin
 
 ## 🖼️ Screenshots
-![image](https://github.com/user-attachments/assets/5e591396-0b5f-4e17-87cd-5259e7c01b22)
-![image](https://github.com/user-attachments/assets/42bf2c60-46ff-46a1-baf2-866c012f2ee3)
-![image](https://github.com/user-attachments/assets/77763cae-5f4a-46fd-91c7-02e7df7bea44)
-![image](https://github.com/user-attachments/assets/932de83a-7d22-414d-a659-1de073699497)
-![image](https://github.com/user-attachments/assets/5b942413-3276-4f8e-af3f-af81e0374bea)
-![image](https://github.com/user-attachments/assets/db53a600-ad30-4612-9b4f-8a16f427d187)
-![image](https://github.com/user-attachments/assets/19998647-dfbf-4eea-81fb-3f71b999c669)
-![image](https://github.com/user-attachments/assets/3a885f4c-396a-4bc3-98fb-d397b028c43d)
-![image](https://github.com/user-attachments/assets/bcee4c32-cb75-4053-8cc7-273821e67403)
-![image](https://github.com/user-attachments/assets/aa84c220-0233-4a91-9af0-eabf88d7fbe0)
-
+![image](https://github.com/user-attachments/assets/68467c2e-1c93-4471-bc71-204e6bc92e81)
+![image](https://github.com/user-attachments/assets/0b56f751-a764-41e7-8abc-2c7554d93317)
+![image](https://github.com/user-attachments/assets/bcf219e0-81a5-42f7-b685-7e8d5c8ec299)
+![image](https://github.com/user-attachments/assets/59897140-80fc-45de-b0af-9174769f01bb)
+![image](https://github.com/user-attachments/assets/c1bf53d6-19dd-4936-babe-203ac29951b3)
+![image](https://github.com/user-attachments/assets/fc02c409-27b8-48b9-a1c5-9584750efcf0)
+![image](https://github.com/user-attachments/assets/24258e6f-db25-4522-bf3a-766557cd1503)
+![image](https://github.com/user-attachments/assets/9c97c377-7f59-4869-9671-163a4c5fe06a)
+![image](https://github.com/user-attachments/assets/e4a118bd-fbf7-4c7a-9026-142ab0a8d076)
+![image](https://github.com/user-attachments/assets/5f2d3780-cd97-4cc4-a722-9c86750586d7)
 
 
 ## 🚀 How to Run the Project
